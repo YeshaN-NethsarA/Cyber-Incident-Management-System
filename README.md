@@ -77,13 +77,13 @@ Configure the required environment variables according to your project settings.
 Use the startup command specified by your backend framework and project configuration.
 
 📁 Project Structure
-
 Cyber-Incident-Management-System/
+├── client/
+├── server/
+├── screenshots/
 ├── README.md
-├── requirements.txt
 ├── .gitignore
-├── [application source files]
-└── [tests]
+└── package-lock.json
 
 Replace the example structure above with the actual files and folders in your repository.
 
