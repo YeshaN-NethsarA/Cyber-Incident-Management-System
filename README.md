@@ -1,13 +1,13 @@
 🛡️ Cyber Incident Management System
 
-<p align="center">
+
   A secure API-based system for managing and tracking cybersecurity incidents.
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Authentication-JWT-orange" alt="JWT" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Security-bcrypt-red" alt="bcrypt" />
-</p>---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="bcrypt" />
+</p>
 
 📌 Overview
 
