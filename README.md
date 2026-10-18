@@ -32,10 +32,10 @@ JWT| Authentication and authorization
 bcrypt| Password hashing
 REST API| Client-server communication
 
-https://github.com/YeshaN-NethsarA/Cyber-Incident-Management-System/blob/aeb230fd9f1e131b702b11061f02ba47aeb2c283/screenshots/login.png
+![image alt](https://github.com/YeshaN-NethsarA/Cyber-Incident-Management-System/blob/aeb230fd9f1e131b702b11061f02ba47aeb2c283/screenshots/login.png)
 
 
-https://github.com/YeshaN-NethsarA/Cyber-Incident-Management-System/blob/aeb230fd9f1e131b702b11061f02ba47aeb2c283/screenshots/dashboard.png
+![image alt](https://github.com/YeshaN-NethsarA/Cyber-Incident-Management-System/blob/aeb230fd9f1e131b702b11061f02ba47aeb2c283/screenshots/dashboard.png)
 
 
 🔒 Security Testing
